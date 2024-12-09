@@ -2,7 +2,7 @@
 
 O objetivo desse teste de aceitação é testar a facilidade de uso e a eficiência do site de ensalamentos online, verificando como os participantes cadastram professores, disciplinas, espaços físicos e alocam espaços físicos no sistema.
 
----
+
 
 ## 📂 Estrutura do Repositório
 
@@ -23,7 +23,7 @@ O repositório está organizado nas seguintes seções:
    - **Dados Qualitativos**: Dados categóricos ou descritivos coletados durante o projeto.
    - **Dados Quantitativos**: Dados numéricos ou estatísticos.
 
----
+
 
 ## 🛠️ Como Utilizar
 
@@ -38,14 +38,14 @@ O repositório está organizado nas seguintes seções:
 3. Leia os Documentos:
     - Inicie pelo arquivo Plano_de_Teste.md para entender os objetivos e etapas do projeto.
 
----
+
 
 ## 📝 Informações Adicionais
 - **Autores:** Evelim Bacury, Gabriel Moriz, Márcio Éric
 - **Tecnologias que Foram Utilizadas:** Google Forms, Google Planilhas, Google Docs.
 - **Licença:** Este projeto está licenciado sob MIT License.
 
----
+
 
 ## 📊 Resultados e Conclusões
 
@@ -53,8 +53,8 @@ O site analisado apresentou **bons resultados gerais**, destacando-se pela facil
 
 Esses ajustes podem elevar a experiência do usuário, consolidando a percepção de confiança e eficiência do site. Ao abordar essas questões, o sistema poderá atender de forma mais ampla às expectativas e necessidades dos usuários.
 
----
 
+<br>
 <div align="center">
 <h3>Obrigado por chegar até aqui! 🎉</h3>
 </div>
