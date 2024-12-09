@@ -20,13 +20,13 @@
 ## **Resumo dos Resultados**
 A tabela apresenta os resultados de testes de aceitação com base em quatro métricas principais:
 
-1. **M1:** Tempo gasto (em minutos)  
+1. **M1:** Tempo gasto (em segundos)  
 2. **M2:** Número de erros  
 3. **M3:** Número de confusões  
 4. **M4:** Número de solicitações de ajuda  
 
 ### **Média Geral por Métrica**
-- **M1 (Tempo Gasto):** 19,32 minutos  
+- **M1 (Tempo Gasto):** 19,32 segundos  
 - **M2 (Número de Erros):** 0,15 erros  
 - **M3 (Número de Confusões):** 0,39 confusões  
 - **M4 (Número de Solicitações de Ajuda):** 0  
@@ -35,9 +35,9 @@ A tabela apresenta os resultados de testes de aceitação com base em quatro mé
 
 ## **Análise por Métrica**
 ### **1. M1: Tempo Gasto**
-- A média geral foi **19,32 minutos**.
-- **Maior tempo gasto:** Tarefa 5 (38,25 minutos).  
-- **Menor tempo gasto:** Tarefa 1 (5 minutos).  
+- A média geral foi **19,32 segundos**.
+- **Maior tempo gasto:** Tarefa 5 (38,25 segundos).  
+- **Menor tempo gasto:** Tarefa 1 (5 segundos).  
 - Tarefas 4 e 5 são significativamente mais demoradas, possivelmente devido à maior complexidade.
 
 ### **2. M2: Número de Erros**
